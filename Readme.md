@@ -8,16 +8,8 @@ https://leetcode.com/<br>
 https://www.hackerrank.com/dashboard<br>
 (Codechef)<br>
 https://www.codechef.com/<br>
-(hacker Earth)<br>
+(Hacker Earth)<br>
 https://www.hackerearth.com/for-developers<br>
-
-
-https://youtu.be/N1Ak5RSAFww<br>
-https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=leftbar-rightbar
-<br>(How to get internships )<br>
-https://youtu.be/wYYUf6eq96E
-<br>(Coding questions )<br>
-https://towardsdatascience.com/two-of-the-most-famous-coding-interview-questions-9746a4111011
 
 ## Coders Heaven <br>
 (Geeks for Geeks)<br>
@@ -65,9 +57,17 @@ https://sites.google.com/a/gmit.ac.in/18cs44/
 <br>(All in one computer science video channel)</br>
 https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w<br>
 https://youtu.be/YoXxevp1WRQ
-<br>(Aptitude)<br>
+<br>(<B>Aptitude</B>)<br>
 https://indiabix.com/aptitude/questions-and-answers/ <br>
 
+## Placement
+(How to Introduce in Interviews)<br>
+https://youtu.be/N1Ak5RSAFww<br>
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=leftbar-rightbar
+<br>(How to get internships )<br>
+https://youtu.be/wYYUf6eq96E
+<br>(Coding questions )<br>
+https://towardsdatascience.com/two-of-the-most-famous-coding-interview-questions-9746a4111011
 
 
 (Kotlin)<br>
