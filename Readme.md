@@ -1,7 +1,7 @@
 # CODER_RESOURCES
 
 ## Competitive Coding <br>
-For Practice:-
+For Practice:-<br>
 (Leetcode)<br>
 https://leetcode.com/<br>
 (Hacker Rank)<br>
