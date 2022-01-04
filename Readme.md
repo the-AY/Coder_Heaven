@@ -1,37 +1,14 @@
 # CODER_RESOURCES
-(Data Analysis and Algorithm)<br>
-https://www.javatpoint.com/daa-tutorial 
-<br>(Full video on DAA)<br>
-https://youtu.be/D6Q_wHrzxDs 
-<br>(Java OOPS concept)<br>
-https://www.javatpoint.com/java-oops-concepts<br>
-https://www.geeksforgeeks.org/<br>object-oriented-programming-oops-concept-in-java/<br>
-https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/
-<br>(Java OOPS video)<br>
-https://www.youtube.com/watch?v=7GwptabrYyk
-<br>(Operating Systems )<br>
-https://www.javatpoint.com/os-tutorial
-<br>(OS video)
-https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A
-<br>(Data Communication /Computer Network)<br>
-https://www.javatpoint.com/computer-network-tutorial
-<br>(DC/CN Notes)<br>
-https://ncert.nic.in/textbook/pdf/lecs111.pdf
-<br>(OSI model-DC/CN)<br>
-https://youtu.be/vv4y_uOneC0
-<br>(micro controller website )<br>
-https://sites.google.com/a/gmit.ac.in/18cs44/
-<br>(All in one computer science video channel)</br>
-https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w<br>
-https://youtu.be/YoXxevp1WRQ
-<br>(Aptitude)<br>
-https://indiabix.com/aptitude/questions-and-answers/ <br>
-For Practice:-
 
 ## Competitive Coding <br>
+For Practice:-
+(Leetcode)<br>
 https://leetcode.com/<br>
+(Hacker Rank)<br>
 https://www.hackerrank.com/dashboard<br>
+(Codechef)<br>
 https://www.codechef.com/<br>
+(hacker Earth)<br>
 https://www.hackerearth.com/for-developers<br>
 
 
@@ -60,6 +37,38 @@ https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww<br>
 (Apna College)<br><br>
 <br>(Web Development)<br>
 https://www.geeksforgeeks.org/what-is-full-stack-development/<br>
+## Learning Resources
+(Data Analysis and Algorithm)<br>
+https://www.javatpoint.com/daa-tutorial 
+<br>(Full video on DAA)<br>
+https://youtu.be/D6Q_wHrzxDs <br>
+
+## Learning Resources <br>
+<br>(Java OOPS concept)<br>
+https://www.javatpoint.com/java-oops-concepts<br>
+https://www.geeksforgeeks.org/<br>object-oriented-programming-oops-concept-in-java/<br>
+https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/
+<br>(Java OOPS video)<br>
+https://www.youtube.com/watch?v=7GwptabrYyk
+<br>(Operating Systems )<br>
+https://www.javatpoint.com/os-tutorial
+<br>(OS video)
+https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A
+<br>(Data Communication /Computer Network)<br>
+https://www.javatpoint.com/computer-network-tutorial
+<br>(DC/CN Notes)<br>
+https://ncert.nic.in/textbook/pdf/lecs111.pdf
+<br>(OSI model-DC/CN)<br>
+https://youtu.be/vv4y_uOneC0
+<br>(micro controller website )<br>
+https://sites.google.com/a/gmit.ac.in/18cs44/
+<br>(All in one computer science video channel)</br>
+https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w<br>
+https://youtu.be/YoXxevp1WRQ
+<br>(Aptitude)<br>
+https://indiabix.com/aptitude/questions-and-answers/ <br>
+
+
 
 (Kotlin)<br>
 https://youtu.be/mnkzx3TwbV8
