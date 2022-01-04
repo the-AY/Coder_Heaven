@@ -27,7 +27,12 @@ https://youtu.be/YoXxevp1WRQ
 <br>(Aptitude)<br>
 For Practice:-
 
-https://leetcode.com/<br>
+## Competitive coding</br>
+<br>https://leetcode.com/</br>
+<br>https://www.hackerrank.com/dashboard</br>
+<br>https://www.codechef.com/<br>
+<br>https://www.hackerearth.com/for-developers</br>
+
 https://youtu.be/N1Ak5RSAFww<br>
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=leftbar-rightbar
 <br>(How to get internships )<br>
