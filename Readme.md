@@ -1,4 +1,4 @@
-# VTU_ENGINEERING Resources
+# CODER_RESOURCES
 (Data Analysis and Algorithm)<br>
 https://www.javatpoint.com/daa-tutorial 
 <br>(Full video on DAA)<br>
@@ -25,13 +25,15 @@ https://sites.google.com/a/gmit.ac.in/18cs44/
 https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w<br>
 https://youtu.be/YoXxevp1WRQ
 <br>(Aptitude)<br>
+https://indiabix.com/aptitude/questions-and-answers/ <br>
 For Practice:-
 
-## Competitive coding</br>
-<br>https://leetcode.com/</br>
-<br>https://www.hackerrank.com/dashboard</br>
-<br>https://www.codechef.com/<br>
-<br>https://www.hackerearth.com/for-developers</br>
+## Competitive Coding <br>
+https://leetcode.com/<br>
+https://www.hackerrank.com/dashboard<br>
+https://www.codechef.com/<br>
+https://www.hackerearth.com/for-developers<br>
+
 
 https://youtu.be/N1Ak5RSAFww<br>
 https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=leftbar-rightbar
@@ -40,9 +42,23 @@ https://youtu.be/wYYUf6eq96E
 <br>(Coding questions )<br>
 https://towardsdatascience.com/two-of-the-most-famous-coding-interview-questions-9746a4111011
 
+## Coders Heaven <br>
+https://www.geeksforgeeks.org/
+https://www.w3schools.com/
+https://www.javatpoint.com/
+https://www.tutorialspoint.com/index.htm
+
+## Coders Video resources <br>
+(Bro code)<br>
+https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ<br>
+(Code with Harry)<br>
+https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww<br>
+(Apna College)<br>
+https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA<br>
 <br>(Web Development)<br>
-https://www.geeksforgeeks.org/what-is-full-stack-development/
-<br>(Kotlin)<br>
+https://www.geeksforgeeks.org/what-is-full-stack-development/<br>
+
+(Kotlin)<br>
 https://youtu.be/mnkzx3TwbV8
 
 <br>(Web Browser for Development )<br>
