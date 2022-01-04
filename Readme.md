@@ -43,18 +43,21 @@ https://youtu.be/wYYUf6eq96E
 https://towardsdatascience.com/two-of-the-most-famous-coding-interview-questions-9746a4111011
 
 ## Coders Heaven <br>
-https://www.geeksforgeeks.org/
-https://www.w3schools.com/
-https://www.javatpoint.com/
-https://www.tutorialspoint.com/index.htm
+(Geeks for Geeks)<br>
+https://www.geeksforgeeks.org/<br>
+(W3cSchools)<br>
+https://www.w3schools.com/<br>
+(Javapoint)<br>
+https://www.javatpoint.com/<br>
+(Tutorials Point)<br>
+https://www.tutorialspoint.com/index.htm<br>
 
 ## Coders Video resources <br>
 (Bro code)<br>
 https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ<br>
 (Code with Harry)<br>
 https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww<br>
-(Apna College)<br>
-https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA<br>
+(Apna College)<br><br>
 <br>(Web Development)<br>
 https://www.geeksforgeeks.org/what-is-full-stack-development/<br>
 
