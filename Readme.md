@@ -46,7 +46,7 @@ https://youtu.be/D6Q_wHrzxDs <br>
 ## Placement
 (Rashmi maam's Youtube Channel)
 Interviews|Tips&Tricks to crack Aptitude <br>
-<a href ="https://www.youtube.com/c/RashmiBhandary/featured" > 
+<a href ="https://www.youtube.com/c/RashmiBhandary/featured" > Rashmi Bhandary </a>
 
 (How to Introduce in Interviews)<br>
 https://youtu.be/N1Ak5RSAFww<br>
