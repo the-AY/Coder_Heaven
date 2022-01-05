@@ -74,17 +74,29 @@ https://prepinsta.com/learn-aptitude/<br>
 
 <a href ="https://www.guvi.in/" > Guvi Geek</a>
 
+Programming hub
+
+sololearn
+
 ## Android development 
 (Kotlin)<br>
-A best way to get Started with learning Kotlin for Android development is visiting the official site and going through the docs at the beginning and then staring with the playlists of YouTube or start with a course
+A best way to get Started with learning Kotlin for Android development is visiting the official site and going through the docs at the beginning and then staring with the playlists of YouTube or start with a course<br>
 https://kotlinlang.org/<br>
-https://youtu.be/mnkzx3TwbV8
+https://youtu.be/mnkzx3TwbV8 <br>
 
 ## Web Development 
 <br>(Web Browser for Development )<br>
-https://www.mozilla.org/en-US/firefox/developer/
+https://www.mozilla.org/en-US/firefox/developer/<br>
 
 ## Cyber Security
+hacksplaing
+owsap
+kali linux
+code red
+hack 5
+null byte
+network chuck
+
 
 ## Learning Resources <br>
 <br>(Java OOPS concept)<br>
