@@ -1,9 +1,12 @@
 # CODER_RESOURCES
 
 ## Competitive Coding <br>
-(How to get Started)<br>
+(Complete Guide)<br>
+https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/<br>
+(Getting Started Guide)<br>
+https://youtu.be/qZNRKB0uR5o<br>
 For Practice:-<br>
-(Top Coder)
+(Top Coder)<br>
 https://www.topcoder.com/<br>
 (Code Forces)<br>
 https://codeforces.com/<br>
