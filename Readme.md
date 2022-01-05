@@ -43,6 +43,49 @@ https://www.javatpoint.com/daa-tutorial
 <br>(Full video on DAA)<br>
 https://youtu.be/D6Q_wHrzxDs <br>
 
+## Placement
+(Rashmi maam's Youtube Channel)
+Interviews|Tips&Tricks to crack Aptitude <br>
+<a href ="https://www.youtube.com/c/RashmiBhandary/featured" > 
+
+(How to Introduce in Interviews)<br>
+https://youtu.be/N1Ak5RSAFww<br>
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=leftbar-rightbar
+<br>(How to get internships )<br>
+https://youtu.be/wYYUf6eq96E
+<br>(Coding questions )<br>
+https://towardsdatascience.com/two-of-the-most-famous-coding-interview-questions-9746a4111011 <br>
+(PrepInsta)<br>
+https://prepinsta.com/learn-aptitude/<br>
+
+## Courses
+<a href ="https://github.com/the-AY/Cyber_Security/blob/main/Physical.md" > Physical Attacks <a>
+
+
+<a href ="https://www.coursera.org/in" > Coursera</a>
+
+<a href ="https://www.udemy.com/" > Udemy </a>
+
+<a href ="https://skillsbuild.org/" > IBM Skills Build</a>
+
+<a href ="https://www.netacad.com/careers/pathways-and-certifications" > Cisco Netcad </a>
+
+<a href ="https://www.mygreatlearning.com/" > Great Learning </a>
+
+<a href ="https://www.guvi.in/" > Guvi Geek</a>
+
+## Android development 
+(Kotlin)<br>
+A best way to get Started with learning Kotlin for Android development is visiting the official site and going through the docs at the beginning and then staring with the playlists of YouTube or start with a course
+https://kotlinlang.org/<br>
+https://youtu.be/mnkzx3TwbV8
+
+## Web Development 
+<br>(Web Browser for Development )<br>
+https://www.mozilla.org/en-US/firefox/developer/
+
+## Cyber Security
+
 ## Learning Resources <br>
 <br>(Java OOPS concept)<br>
 https://www.javatpoint.com/java-oops-concepts<br>
@@ -67,42 +110,3 @@ https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w<br>
 https://youtu.be/YoXxevp1WRQ
 <br>(<B>Aptitude</B>)<br>
 https://indiabix.com/aptitude/questions-and-answers/ <br>
-
-## Placement
-(How to Introduce in Interviews)<br>
-https://youtu.be/N1Ak5RSAFww<br>
-https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=leftbar-rightbar
-<br>(How to get internships )<br>
-https://youtu.be/wYYUf6eq96E
-<br>(Coding questions )<br>
-https://towardsdatascience.com/two-of-the-most-famous-coding-interview-questions-9746a4111011 <br>
-(PrepInsta)
-https://prepinsta.com/learn-aptitude/<br>
-
-## Courses
-<a href ="https://github.com/the-AY/Cyber_Security/blob/main/Physical.md" > Physical Attacks <a>
-
-
-<a href ="https://www.coursera.org/in" > Coursera</a>
-
-<a href ="https://www.udemy.com/" > Udemy </a>
-
-<a href ="https://skillsbuild.org/" > IBM Skills Build</a>
-
-<a href ="https://www.netacad.com/careers/pathways-and-certifications" > Cisco Netcad </a>
-
-<a href ="https://www.mygreatlearning.com/" > Great Learning </a>
-
-<a href ="https://www.guvi.in/" > Guvi Geek</a>
-
-# Android development 
-(Kotlin)<br>
-A best way to get Started with learning Kotlin for Android development is visiting the official site and going through the docs at the beginning and then staring with the playlists of YouTube or start with a course
-https://kotlinlang.org/<br>
-https://youtu.be/mnkzx3TwbV8
-
-# Web Development 
-<br>(Web Browser for Development )<br>
-https://www.mozilla.org/en-US/firefox/developer/
-
-# Cyber Security
