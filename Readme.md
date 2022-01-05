@@ -1,7 +1,12 @@
 # CODER_RESOURCES
 
 ## Competitive Coding <br>
+(How to get Started)<br>
 For Practice:-<br>
+(Top Coder)
+https://www.topcoder.com/<br>
+(Code Forces)<br>
+https://codeforces.com/<br>
 (Leetcode)<br>
 https://leetcode.com/<br>
 (Hacker Rank)<br>
@@ -67,11 +72,32 @@ https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon
 <br>(How to get internships )<br>
 https://youtu.be/wYYUf6eq96E
 <br>(Coding questions )<br>
-https://towardsdatascience.com/two-of-the-most-famous-coding-interview-questions-9746a4111011
+https://towardsdatascience.com/two-of-the-most-famous-coding-interview-questions-9746a4111011 <br>
+(PrepInsta)
+https://prepinsta.com/learn-aptitude/<br>
 
+## Courses
 
+<a href ="https://www.coursera.org/in" </a>
+
+<a href ="https://www.udemy.com/" </a>
+
+<a href ="https://skillsbuild.org/" </a>
+
+<a href ="https://www.netacad.com/careers/pathways-and-certifications" </a>
+
+<a href ="https://www.mygreatlearning.com/" </a>
+
+<a href ="https://www.guvi.in/" </a>
+
+# Android development 
 (Kotlin)<br>
+A best way to get Started with learning Kotlin for Android development is visiting the official site and going through the docs at the beginning and then staring with the playlists of YouTube or start with a course
+https://kotlinlang.org/<br>
 https://youtu.be/mnkzx3TwbV8
 
+# Web Development 
 <br>(Web Browser for Development )<br>
 https://www.mozilla.org/en-US/firefox/developer/
+
+# Cyber Security
