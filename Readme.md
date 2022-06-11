@@ -1,4 +1,9 @@
 # CODER_RESOURCES
+-> practice DSA|OS|CN|SE|DBMS|FS|UNIX.
+## Algorithms heaven
+(Complete guide)<br>
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/ </br>
+
 
 ## Competitive Coding <br>
 (Complete Guide)<br>
