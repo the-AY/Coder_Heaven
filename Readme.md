@@ -13,7 +13,8 @@
 <br>
 * Role specific and Company specific questions will be asked go through the Job description and company website while preparing and prepare. Candidates must know about the Projects and skills mentioned in the resume.
 <br>
-## Placement 
+
+## Placement <br>
 - [Rashmi maam's Youtube Channel]<br>
 Interviews | Tips&Tricks to crack Aptitude <br>
 <a href ="https://www.youtube.com/c/RashmiBhandary/featured" > Rashmi Bhandary </a><br>
@@ -54,7 +55,7 @@ https://www.codechef.com/<br>
 https://www.hackerearth.com/for-developers<br>
 
 ## Coders Heaven <br>
-- Use these websites to prepare for any kind of interview questions
+- Use these websites to prepare for any kind of interview questions<br>
 (Geeks for Geeks)<br>
 https://www.geeksforgeeks.org/<br>
 (W3cSchools)<br>
