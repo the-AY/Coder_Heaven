@@ -1,7 +1,36 @@
 # CODER_RESOURCES
--> practice DSA|OS|CN|SE|DBMS|FS|UNIX.
+-> Practice DSA|OS|CN|SE|DBMS|FS|UNIX.
+
+## Interview Guide<br>
+
+- Aptitude(Quants,Logical)
+- Basic programming questions (Swapping, Array manipulation, strings)
+- Data Structures and Algorithms (DSA)
+- Operating Systems (OS)
+- Data Base Management System(DBMS)
+- Data Communication  and Computer Network (DC & CN)
+- Cloud Computing 
+<br>
+* Role specific and Company specific questions will be asked go through the Job description and company website while preparing and prepare. Candidates must know about the Projects and skills mentioned in the resume.
+<br>
+## Placement 
+- [Rashmi maam's Youtube Channel]<br>
+Interviews | Tips&Tricks to crack Aptitude <br>
+<a href ="https://www.youtube.com/c/RashmiBhandary/featured" > Rashmi Bhandary </a><br>
+- [Interview preparation ]<br>
+<a href ="https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=leftbar-rightbar
+" > Interview question for Amazon,Adobe </a>
+<br>(How to get internships )<br>
+https://youtu.be/wYYUf6eq96E
+<br>(Coding questions )<br>
+- <a href ="https://towardsdatascience.com/two-of-the-most-famous-coding-interview-questions-9746a4111011">Most asked Interview questions</a>
+ <br>
+(PrepInsta)<br>
+https://prepinsta.com/learn-aptitude/<br>
+
+
 ## Algorithms heaven
-(Complete guide)<br>
+(Complete guide For Algorithms)<br>
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/ </br>
 
 
@@ -25,6 +54,7 @@ https://www.codechef.com/<br>
 https://www.hackerearth.com/for-developers<br>
 
 ## Coders Heaven <br>
+- Use these websites to prepare for any kind of interview questions
 (Geeks for Geeks)<br>
 https://www.geeksforgeeks.org/<br>
 (W3cSchools)<br>
@@ -34,37 +64,25 @@ https://www.javatpoint.com/<br>
 (Tutorials Point)<br>
 https://www.tutorialspoint.com/index.htm<br>
 
-## Coders Video resources <br>
+## Coders Youtube Video resources <br>
 (Bro code)<br>
 https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ<br>
 (Code with Harry)<br>
 https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww<br>
-(Apna College)<br><br>
-<br>(Web Development)<br>
-https://www.geeksforgeeks.org/what-is-full-stack-development/<br>
+(Apna College)<br>
+https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA<br>
+<br>
 ## Learning Resources
 (Data Analysis and Algorithm)<br>
 https://www.javatpoint.com/daa-tutorial 
 <br>(Full video on DAA)<br>
 https://youtu.be/D6Q_wHrzxDs <br>
+(Web Development)<br>
+https://www.geeksforgeeks.org/what-is-full-stack-development/<br>
 
-## Placement
-(Rashmi maam's Youtube Channel)
-Interviews|Tips&Tricks to crack Aptitude <br>
-<a href ="https://www.youtube.com/c/RashmiBhandary/featured" > Rashmi Bhandary </a>
 
-(How to Introduce in Interviews)<br>
-https://youtu.be/N1Ak5RSAFww<br>
-https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=leftbar-rightbar
-<br>(How to get internships )<br>
-https://youtu.be/wYYUf6eq96E
-<br>(Coding questions )<br>
-https://towardsdatascience.com/two-of-the-most-famous-coding-interview-questions-9746a4111011 <br>
-(PrepInsta)<br>
-https://prepinsta.com/learn-aptitude/<br>
 
 ## Courses
-<a href ="https://github.com/the-AY/Cyber_Security/blob/main/Physical.md" > Physical Attacks <a>
 
 
 <a href ="https://www.coursera.org/in" > Coursera</a>
@@ -77,9 +95,9 @@ https://prepinsta.com/learn-aptitude/<br>
 
 <a href ="https://www.mygreatlearning.com/" > Great Learning </a>
 
-<a href ="https://www.guvi.in/" > Guvi Geek</a>
+<a href ="https://www.guvi.in/" > Guvi Geek</a> <br>
+<a href ="https://programminghub.io/" > Programming hub </a>
 
-Programming hub
 
 sololearn
 
@@ -94,13 +112,16 @@ https://youtu.be/mnkzx3TwbV8 <br>
 https://www.mozilla.org/en-US/firefox/developer/<br>
 
 ## Cyber Security
-hacksplaing
-owsap
-kali linux
-code red
-hack 5
-null byte
-network chuck
+- hacksplaing
+- owsap
+- kali linux
+- code red
+- hack 5
+- null byte
+- network chuck
+<br>
+<a href ="https://github.com/the-AY/Cyber_Security/blob/main/Physical.md" > Physical Attacks (The-Ay github) </a>
+
 
 
 ## Learning Resources <br>
@@ -127,3 +148,6 @@ https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w<br>
 https://youtu.be/YoXxevp1WRQ
 <br>(<B>Aptitude</B>)<br>
 https://indiabix.com/aptitude/questions-and-answers/ <br>
+
+Authors:-<br>
+- Adish Yermal
