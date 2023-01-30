@@ -29,6 +29,27 @@ https://youtu.be/wYYUf6eq96E
 (PrepInsta)<br>
 https://prepinsta.com/learn-aptitude/<br>
 
+## How to start
+<details><summary>Click here to know more</summary>
+<p>
+ ## Newbie guide to get started with programming
+
+  use a good IDE/code editor and make one folder to save all your code for easier access make a github account and learn the push, pull, commit, clone operations and then your ready to collaborate with your teammates VS code is one of the best one as it supports  almost every coding language and many extension available  
+
+  ### Web development 
+  <br>(Web Browser for Development - <b>Mozilla Developer Edition</b>)<br>
+https://www.mozilla.org/en-US/firefox/developer/<br
+
+- After you do the prerequiste of insatlling VS code you can start learning basic html, CSS, JavaScript from <a href="https://www.w3schools.com/"> <b>w3cschools</b> </a> use "Live server" (needs to be added does come built in) extension in vs code to see realtime changes in the website. make a small project using the things you learnt as making project and learning things is one way to learn things, its okay the first project maybe pointless, no idea, no structure but the first step towards it matters.
+After the initiall version of the project learn to add more features to the website and learn a programming language for the backend explore NoSQl and Sql languages 
+
+
+
+
+o
+</p>
+</details>
+
 
 ## Algorithms heaven
 (Complete guide For Algorithms)<br>
@@ -55,15 +76,21 @@ https://www.codechef.com/<br>
 https://www.hackerearth.com/for-developers<br>
 
 ## Coders Heaven <br>
-- Use these websites to prepare for any kind of interview questions<br>
-(Geeks for Geeks)<br>
+Use these websites to prepare for any kind of interview questions<br>
+- (<b>GEEKS FOR GEEKS</b>)<br>
 https://www.geeksforgeeks.org/<br>
-(W3cSchools)<br>
+[Learn anything coding, placements, DSA, networking]
+- (<b>W3cSchools</b>)<br> 
 https://www.w3schools.com/<br>
-(Javapoint)<br>
+[Covers alomost all programming language a text\web based learning]<br>
+- (<b>Javapoint</b>)<br>
 https://www.javatpoint.com/<br>
-(Tutorials Point)<br>
+[Great for java but does offer other language too]
+- (<b>Tutorials Point</b>)<br>
 https://www.tutorialspoint.com/index.htm<br>
+- (<b>Programiz</b>)<br>
+https://www.programiz.com/python-programming/online-compiler/ <br>
+[Online compilers for C, c++, python, java,html, SQl, Php, JavaScript and many more..]
 
 ## Coders Youtube Video resources <br>
 (Bro code)<br>
@@ -93,7 +120,7 @@ https://www.geeksforgeeks.org/what-is-full-stack-development/<br>
 
 <a href ="https://skillsbuild.org/" > IBM Skills Build</a>
 
-<a href ="https://www.netacad.com/careers/pathways-and-certifications" > Cisco Netcad </a>
+<a href ="https://www.netacad.com/careers/pathways-and-certifications" > Cisco Netcad [Networking, Cybersecurity] </a>
 
 <a href ="https://www.mygreatlearning.com/" > Great Learning </a>
 
@@ -110,8 +137,9 @@ https://kotlinlang.org/<br>
 https://youtu.be/mnkzx3TwbV8 <br>
 
 ## Web Development 
-<br>(Web Browser for Development )<br>
+<br>(Web Browser for Development - <b>Mozilla Developer Edition</b>)<br>
 https://www.mozilla.org/en-US/firefox/developer/<br>
+[best open source browser for Productivity and web development because of easier debugging]
 
 ## Cyber Security
 - hacksplaing
