@@ -15,10 +15,10 @@
 <br>
 
 ## Placement <br>
-- [Rashmi maam's Youtube Channel]<br>
+-  Rashmi maam's Youtube Channel <br>
 Interviews | Tips&Tricks to crack Aptitude <br>
 <a href ="https://www.youtube.com/c/RashmiBhandary/featured" > Rashmi Bhandary </a><br>
-- [Interview preparation ]<br>
+-  Interview preparation  <br>
 <a href ="https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=leftbar-rightbar
 " > Interview question for Amazon,Adobe </a>
 <br>(How to get internships )<br>
@@ -79,18 +79,18 @@ https://www.hackerearth.com/for-developers<br>
 Use these websites to prepare for any kind of interview questions<br>
 - (<b>GEEKS FOR GEEKS</b>)<br>
 https://www.geeksforgeeks.org/<br>
-[Learn anything coding, placements, DSA, networking]
+ Learn anything coding, placements, DSA, networking 
 - (<b>W3cSchools</b>)<br> 
 https://www.w3schools.com/<br>
-[Covers alomost all programming language a text\web based learning]<br>
+ Covers alomost all programming language a text\web based learning <br>
 - (<b>Javapoint</b>)<br>
 https://www.javatpoint.com/<br>
-[Great for java but does offer other language too]
+ Great for java but does offer other language too 
 - (<b>Tutorials Point</b>)<br>
 https://www.tutorialspoint.com/index.htm<br>
 - (<b>Programiz</b>)<br>
 https://www.programiz.com/python-programming/online-compiler/ <br>
-[Online compilers for C, c++, python, java,html, SQl, Php, JavaScript and many more..]
+ Online compilers for C, c++, python, java,html, SQl, Php, JavaScript and many more.. 
 
 ## Coders Youtube Video resources <br>
 (Bro code)<br>
@@ -120,7 +120,7 @@ https://www.geeksforgeeks.org/what-is-full-stack-development/<br>
 
 <a href ="https://skillsbuild.org/" > IBM Skills Build</a>
 
-<a href ="https://www.netacad.com/careers/pathways-and-certifications" > Cisco Netcad [Networking, Cybersecurity] </a>
+<a href ="https://www.netacad.com/careers/pathways-and-certifications" > Cisco Netcad  Networking, Cybersecurity  </a>
 
 <a href ="https://www.mygreatlearning.com/" > Great Learning </a>
 
@@ -139,7 +139,7 @@ https://youtu.be/mnkzx3TwbV8 <br>
 ## Web Development 
 <br>(Web Browser for Development - <b>Mozilla Developer Edition</b>)<br>
 https://www.mozilla.org/en-US/firefox/developer/<br>
-[best open source browser for Productivity and web development because of easier debugging]
+ best open source browser for Productivity and web development because of easier debugging 
 
 ## Cyber Security
 - hacksplaing
