@@ -1,7 +1,7 @@
 # CODER_RESOURCES
 -> Practice DSA|OS|CN|SE|DBMS|FS|UNIX.
 
-## Interview Guide<br>
+## 📜Interview Guide<br>
 
 - Aptitude(Quants,Logical)
 - Basic programming questions (Swapping, Array manipulation, strings)
@@ -14,7 +14,7 @@
 * Role specific and Company specific questions will be asked go through the Job description and company website while preparing and prepare. Candidates must know about the Projects and skills mentioned in the resume.
 <br>
 
-## Placement <br>
+## 🏅 Placement <br>
 -  Rashmi maam's Youtube Channel <br>
 Interviews | Tips&Tricks to crack Aptitude <br>
 <a href ="https://www.youtube.com/c/RashmiBhandary/featured" > Rashmi Bhandary </a><br>
@@ -34,7 +34,7 @@ https://prepinsta.com/learn-aptitude/<br>
 <p>
  ## Newbie guide to get started with programming
 
-  use a good IDE/code editor and make one folder to save all your code for easier access make a github account and learn the push, pull, commit, clone operations and then your ready to collaborate with your teammates VS code is one of the best one as it supports  almost every coding language and many extension available  
+  Use a good IDE/code editor and make one folder to save all your code for easier access make a github account and learn the push, pull, commit, clone operations and then your ready to collaborate with your teammates VS code is one of the best one as it supports  almost every coding language and many extension available  
 
   ### Web development 
   <br>(Web Browser for Development - <b>Mozilla Developer Edition</b>)<br>
@@ -46,7 +46,7 @@ After the initiall version of the project learn to add more features to the webs
 
 
 
-o
+
 </p>
 </details>
 
@@ -75,7 +75,7 @@ https://www.codechef.com/<br>
 (Hacker Earth)<br>
 https://www.hackerearth.com/for-developers<br>
 
-## Coders Heaven <br>
+## 💻 Coders Heaven <br>
 Use these websites to prepare for any kind of interview questions<br>
 - (<b>GEEKS FOR GEEKS</b>)<br>
 https://www.geeksforgeeks.org/<br>
@@ -100,37 +100,31 @@ https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww<br>
 (Apna College)<br>
 https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA<br>
 <br>
-## Learning Resources
-(Data Analysis and Algorithm)<br>
-https://www.javatpoint.com/daa-tutorial 
-<br>(Full video on DAA)<br>
-https://youtu.be/D6Q_wHrzxDs <br>
-(Web Development)<br>
-https://www.geeksforgeeks.org/what-is-full-stack-development/<br>
-
 
 
 ## Courses
 
-
+Make roadmaps of anything using <a href ="https://learn-anything.xyz/" > learn-anything.xyz</a> 
 
 <a href ="https://www.coursera.org/in" > Coursera</a>
 
 <a href ="https://www.udemy.com/" > Udemy </a>
 
-<a href ="https://skillsbuild.org/" > IBM Skills Build</a>
+<a href ="https://skillsbuild.org/" > IBM Skills Build (Free)</a>
 
-<a href ="https://www.netacad.com/careers/pathways-and-certifications" > Cisco Netcad  Networking, Cybersecurity  </a>
+<a href ="https://www.netacad.com/careers/pathways-and-certifications" > Cisco Netcad  Networking, Cybersecurity (Free) </a>
 
 <a href ="https://www.mygreatlearning.com/" > Great Learning </a>
 
 <a href ="https://www.guvi.in/" > Guvi Geek</a> <br>
-<a href ="https://programminghub.io/" > Programming hub </a>
+
+<a href ="https://programminghub.io/" > Programming hub </a><br>
+
+<a href ="https://www.sololearn.com/" >Sololearn </a>
 
 
-sololearn
 
-## Android development 
+## 📱👾 Android development 
 (Kotlin)<br>
 A best way to get Started with learning Kotlin for Android development is visiting the official site and going through the docs at the beginning and then staring with the playlists of YouTube or start with a course<br>
 https://kotlinlang.org/<br>
@@ -141,43 +135,71 @@ https://youtu.be/mnkzx3TwbV8 <br>
 https://www.mozilla.org/en-US/firefox/developer/<br>
  best open source browser for Productivity and web development because of easier debugging 
 
-## Cyber Security
-- hacksplaing
-- owsap
-- kali linux
-- code red
-- hack 5
-- null byte
-- network chuck
+## DevOPS (Coming soon ❤️): 
+## DevSecOps (Coming soon ❤️): 
+
+## 👾 Cyber Security
+
+<details><summary>Click here to know more</summary>
+<p>
+
+<b>Certified Information Systems Security Professional (CISSP):</b> The CISSP is the most well-known and respected cybersecurity certification in the world. It is a vendor-neutral certification that covers a wide range of security topics, including security and risk management, asset security, security engineering, and identity and access management. The CISSP exam costs $699 USD.
+Certified Ethical Hacker (CEH): The CEH is a certification that focuses on ethical hacking and penetration testing. It covers topics such as reconnaissance, scanning, exploitation, and maintaining access. The CEH exam costs $1,099 USD.EC-Council
+
+<b>ecurity+:</b> The Security+ is a vendor-neutral certification that covers the fundamentals of cybersecurity. It is a good entry-level certification for those who are new to the field. The Security+ exam costs $199 USD.
+CompTIA
+Security+ cybersecurity certification
+
+<b>Certified Cloud Security Professional (CCSP):</b> The CCSP is a certification that focuses on cloud security. It covers topics such as cloud computing architecture, security controls, and compliance. The CCSP exam costs $599 USD.
+
+
+<b>GIAC Certified Incident Handler (GCIH):</b> The GCIH is a certification that focuses on incident response. It covers topics such as incident management, threat analysis, and incident response planning. The GCIH exam costs $1,199 USD. 
+
+</p>
+</details> <br>
+
+- Hacksplaing
+- OWSAP
+- kKali linux
+- Code red EC-council
+- Hack 5
+- Null Byte
+- Network Chuck
 <br>
 <a href ="https://github.com/the-AY/Cyber_Security/blob/main/Physical.md" > Physical Attacks (The-Ay github) </a>
 
 
-
-## Learning Resources <br>
-<br>(Java OOPS concept)<br>
+## 📚Learning Resources <br>
+<br>(Data Analysis and Algorithm👇)<br>
+https://www.javatpoint.com/daa-tutorial 
+<br>(Full video on DAA👇)<br>
+https://youtu.be/D6Q_wHrzxDs <br>
+(Web Development👇)<br>
+https://www.geeksforgeeks.org/what-is-full-stack-development/<br>
+(Java OOPS concept👇)<br>
 https://www.javatpoint.com/java-oops-concepts<br>
 https://www.geeksforgeeks.org/<br>object-oriented-programming-oops-concept-in-java/<br>
 https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/
-<br>(Java OOPS video)<br>
+<br>(Java OOPS video👇)<br>
 https://www.youtube.com/watch?v=7GwptabrYyk
-<br>(Operating Systems )<br>
+<br>(Operating Systems 👇)<br>
 https://www.javatpoint.com/os-tutorial
-<br>(OS video)
+<br>(OS video👇)
 https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A
-<br>(Data Communication /Computer Network)<br>
+<br>(Data Communication /Computer Network👇)<br>
 https://www.javatpoint.com/computer-network-tutorial
-<br>(DC/CN Notes)<br>
+<br>(DC/CN Notes👇)<br>
 https://ncert.nic.in/textbook/pdf/lecs111.pdf
-<br>(OSI model-DC/CN)<br>
+<br>(OSI model-DC/CN👇)<br>
 https://youtu.be/vv4y_uOneC0
-<br>(micro controller website )<br>
+<br>(micro controller website 👇)<br>
 https://sites.google.com/a/gmit.ac.in/18cs44/
-<br>(All in one computer science video channel)</br>
+<br>(All in one computer science video channel👇)</br>
 https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w<br>
 https://youtu.be/YoXxevp1WRQ
-<br>(<B>Aptitude</B>)<br>
+<br>(<B>Aptitude👇</B>)<br>
 https://indiabix.com/aptitude/questions-and-answers/ <br>
 
 Authors:-<br>
-- Adish Yermal
+- Adish Yermal <br>
+Last Updated : 15-06-2023
