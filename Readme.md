@@ -234,5 +234,5 @@ You can get some idea from these projects there are various programing languages
 
 
 Authors:-<br>
-- Adish Yermal, Sahyadri College of Engineering and Management <br>
+-  <a href ="https://github.com/the-AY" >Adish Yermal</a> , Sahyadri College of Engineering and Management <br>
 Last Updated : 17-06-2023
