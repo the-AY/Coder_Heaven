@@ -12,7 +12,8 @@
 - Cloud Computing 
 <br>
 * Role specific and Company specific questions will be asked go through the Job description and company website while preparing and prepare. Candidates must know about the Projects and skills mentioned in the resume.
-<br>
+<br>  
+* <a href ="https://career.guru99.com/" > Interview Prep Coding  Questions (click here)</a> 
 
 ## 🏅 Placement <br>
 -  Rashmi maam's Youtube Channel <br>
@@ -26,10 +27,12 @@ https://youtu.be/wYYUf6eq96E
 <br>(Coding questions )<br>
 - <a href ="https://towardsdatascience.com/two-of-the-most-famous-coding-interview-questions-9746a4111011">Most asked Interview questions</a>
  <br>
+ <br>(<B>Aptitude👇</B>)<br>
+https://indiabix.com/aptitude/questions-and-answers/ <br>
 (PrepInsta)<br>
 https://prepinsta.com/learn-aptitude/<br>
 
-## How to start
+### How to start (Placement preparation)
 <details><summary>Click here to know more</summary>
 <p>
  ## Newbie guide to get started with programming
@@ -124,7 +127,7 @@ Make roadmaps of anything using <a href ="https://learn-anything.xyz/" > learn-a
 
 
 
-## 📱👾 Android development 
+## 📱 Android development 
 (Kotlin)<br>
 A best way to get Started with learning Kotlin for Android development is visiting the official site and going through the docs at the beginning and then staring with the playlists of YouTube or start with a course<br>
 https://kotlinlang.org/<br>
@@ -135,12 +138,21 @@ https://youtu.be/mnkzx3TwbV8 <br>
 https://www.mozilla.org/en-US/firefox/developer/<br>
  best open source browser for Productivity and web development because of easier debugging 
 
-## DevOPS (Coming soon ❤️): 
-## DevSecOps (Coming soon ❤️): 
+### DevOPS (Coming soon ❤️): 
+<details><summary>Click here to know more (DevOps)</summary>
+<p> DevOps
+</p>
+</details> <br>
+
+### DevSecOps (Coming soon ❤️): 
+<details><summary>Click here to know more (DevSecOps)</summary>
+<p> DevSecOps
+</p>
+</details> <br>
 
 ## 👾 Cyber Security
 
-<details><summary>Click here to know more</summary>
+<details><summary>Click here to know more (CyberSecurity)</summary>
 <p>
 
 <b>Certified Information Systems Security Professional (CISSP):</b> The CISSP is the most well-known and respected cybersecurity certification in the world. It is a vendor-neutral certification that covers a wide range of security topics, including security and risk management, asset security, security engineering, and identity and access management. The CISSP exam costs $699 USD.
@@ -158,15 +170,15 @@ Security+ cybersecurity certification
 </p>
 </details> <br>
 
-- Hacksplaing
-- OWSAP
-- kKali linux
-- Code red EC-council
-- Hack 5
-- Null Byte
-- Network Chuck
-<br>
-<a href ="https://github.com/the-AY/Cyber_Security/blob/main/Physical.md" > Physical Attacks (The-Ay github) </a>
+- <a href ="https://www.hacksplaining.com//" >Hacksplaing </a><br>
+- <a href ="https://owasp.org/" > OWSAP </a><br>
+- <a href ="https://www.kali.org/" >Kali linux </a><br>
+- <a href ="https://codered.eccouncil.org/your-portal/home?logged=true" >Code red EC-council </a><br>
+- <a href ="https://hak5.org/" >Hack 5</a><br>
+- <a href ="https://null-byte.wonderhowto.com/" >Null Byte</a><br>
+- <a href ="https://www.youtube.com/user/NetworkChuck" >Network Chuck (YT)</a><br>
+
+<a href ="https://github.com/the-AY/Cyber_Security/blob/main/Physical.md" > Physical Attacks (The-Ay github) </a><br>
 
 
 ## 📚Learning Resources <br>
@@ -201,6 +213,26 @@ https://youtu.be/YoXxevp1WRQ
 <br>(<B>Aptitude👇</B>)<br>
 https://indiabix.com/aptitude/questions-and-answers/ <br>
 
+
+▶ Computer science/information science 
+
+https://github.com/petermac-/awesome-stars/blob/master/README.md#c-2
+
+You can get some idea from these projects there are various programing languages you choose from .
+
+▶ Electronics
+
+* Awesome Internet of Things (IoT) <a href ="https://github.com/HQarroum/awesome-iot" > (GitHub Link) </a><br> 
+
+* Raspberry Pi Examples <a href ="https://github.com/raspberrypi/examples" > (GitHub Link) </a><br>
+
+* NodeMCU<a href ="https://github.com/nodemcu/nodemcu-firmware" > (GitHub Link) </a><br> 
+
+* Adafruit Learning System <a href ="https://github.com/adafruit/Adafruit_Learning_System_Guides" > (GitHub Link) </a><br>  
+
+* Pi Projects (<a href ="https://github.com/RPi-Distro/pi-projects"> GitHub Link) </a><br>
+
+
 Authors:-<br>
-- Adish Yermal <br>
-Last Updated : 15-06-2023
+- Adish Yermal, Sahyadri College of Engineering and Management <br>
+Last Updated : 17-06-2023
