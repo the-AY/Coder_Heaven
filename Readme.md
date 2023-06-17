@@ -151,7 +151,7 @@ https://www.mozilla.org/en-US/firefox/developer/<br>
 </details> <br>
 
 ### Cloud ☁️  (Coming soon ❤️): 
-<details><summary>Click here to know more (DevSecOps)</summary>
+<details><summary>Click here to know more (Cloud)</summary>
 <p> Cloud ☁️ Coming soon ❤️
 </p>
 </details> <br>
