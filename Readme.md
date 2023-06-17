@@ -140,13 +140,19 @@ https://www.mozilla.org/en-US/firefox/developer/<br>
 
 ### DevOPS (Coming soon ❤️): 
 <details><summary>Click here to know more (DevOps)</summary>
-<p> DevOps
+<p> DevOps Coming soon ❤️
 </p>
 </details> <br>
 
 ### DevSecOps (Coming soon ❤️): 
 <details><summary>Click here to know more (DevSecOps)</summary>
-<p> DevSecOps
+<p> DevSecOps Coming soon ❤️
+</p>
+</details> <br>
+
+### Cloud ☁️  (Coming soon ❤️): 
+<details><summary>Click here to know more (DevSecOps)</summary>
+<p> Cloud ☁️ Coming soon ❤️
 </p>
 </details> <br>
 
