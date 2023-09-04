@@ -1,5 +1,5 @@
 # CODER_RESOURCES
--> Practice DSA|OS|CN|SE|DBMS|FS|UNIX.
+-> Practice DSA | OS | CN | SE | DBMS | FS | UNIX
 
 ## 📜Interview Guide<br>
 
@@ -14,6 +14,21 @@
 * Role specific and Company specific questions will be asked go through the Job description and company website while preparing and prepare. Candidates must know about the Projects and skills mentioned in the resume.
 <br>  
 * <a href ="https://career.guru99.com/" > Interview Prep Coding  Questions (click here)</a> 
+
+### Last Moment Preparation (One week rapid preparation )
+<details><summary>Click here to know more</summary>
+<p>
+<b> Basic role [3.5 - 6] </b> <Br>
+- C programming and DSA(Data structures) <br>
+<a href ="https://youtu.be/irqbmMNs2Bo?t=41" > Apna College </a><br> 
+<a href ="https://www.geeksforgeeks.org/data-structures/" > DSA(GFG) </a> <br><br>
+- Object Orientated Programming in C <br>
+ <a href ="https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/" > OOPS(GFG) </a><br>  
+- Operating systems (Geeks for geeks)<br>
+ <a href =" https://www.geeksforgeeks.org/operating-systems/" > Operating Systems(GFG) </a><br>
+
+</p>
+</details>
 
 ## 🏅 Placement <br>
 -  Rashmi maam's Youtube Channel <br>
