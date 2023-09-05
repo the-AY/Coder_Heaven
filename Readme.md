@@ -18,14 +18,27 @@
 ### Last Moment Preparation (One week rapid preparation )
 <details><summary>Click here to know more</summary>
 <p>
+- Coding questions company wise <br>
+<a href ="https://www.geeksforgeeks.org/must-coding-questions-company-wise/" > Questions (GFG)</a><br> 
+
 <b> Basic role [3.5 - 6] </b> <Br>
 - C programming and DSA(Data structures) <br>
 <a href ="https://youtu.be/irqbmMNs2Bo?t=41" > Apna College </a><br> 
-<a href ="https://www.geeksforgeeks.org/data-structures/" > DSA(GFG) </a> <br><br>
-- Object Orientated Programming in C <br>
+<a href ="https://www.geeksforgeeks.org/data-structures/" > DSA(GFG) </a> <br>
+- Object oriented Programming in C <br>
  <a href ="https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/" > OOPS(GFG) </a><br>  
 - Operating systems (Geeks for geeks)<br>
  <a href =" https://www.geeksforgeeks.org/operating-systems/" > Operating Systems(GFG) </a><br>
+ - Aptitude <br>
+<a href =" https://www.indiabix.com/aptitude/questions-and-answers/" > Aptitude (indiabix) </a><br>
+
+<b> [6LPA+]</b><br>
+These are additional things in the check list after the Basic role [3.5 - 6].<br>
+<a href ="https://prepinsta.com/top-100-codes/" >Top 100 coding questions (Prepinsta) </a><br>
+- Excellent projects on latest technologies
+- Understanding on DBMS, OS and Networking.
+- Good Internships and Certifications will boost the chances
+
 
 </p>
 </details>
