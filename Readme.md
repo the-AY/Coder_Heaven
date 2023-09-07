@@ -29,6 +29,12 @@
  <a href ="https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/" > OOPS(GFG) </a><br>  
 - Operating systems (Geeks for geeks)<br>
  <a href =" https://www.geeksforgeeks.org/operating-systems/" > Operating Systems(GFG) </a><br>
+- SQL (DBMS)<br>
+ <a href ="  https://www.interviewbit.com/sql-cheat-sheet/" >SQL (interviewbit) </a><br>
+- Computer Network <br>
+ <a href ="  https://www.geeksforgeeks.org/basics-computer-networking/" >Basics of Computer Network (GFG) </a><br>
+ 
+
  - Aptitude <br>
 <a href =" https://www.indiabix.com/aptitude/questions-and-answers/" > Aptitude (indiabix) </a><br>
 
@@ -166,9 +172,16 @@ https://youtu.be/mnkzx3TwbV8 <br>
 https://www.mozilla.org/en-US/firefox/developer/<br>
  best open source browser for Productivity and web development because of easier debugging 
 
-### DevOPS (Coming soon ❤️): 
+### DevOPS (Building up live soon ❤️): 
 <details><summary>Click here to know more (DevOps)</summary>
-<p> DevOps Coming soon ❤️
+<p> 
+DevOps Being Built ❤️
+<br>
+
+![Alt text](https://audviklabs.com/wp-content/uploads/2022/05/devops-tools-1024x576.jpg)
+
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high quality. DevOps emphasizes the collaboration and communication of both teams to achieve these goals.
+
 </p>
 </details> <br>
 
