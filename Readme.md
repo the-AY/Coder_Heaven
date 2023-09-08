@@ -1,15 +1,17 @@
 # CODER_RESOURCES
--> Practice DSA | OS | CN | SE | DBMS | FS | UNIX
+-> Practice <a href ="https://www.geeksforgeeks.org/data-structures/" > DSA </a>  |<a href = "https://www.geeksforgeeks.org/operating-systems/" > OS </a> |  <a href ="https://www.geeksforgeeks.org/basics-computer-networking/" >CN </a> | SE | <a href ="https://www.geeksforgeeks.org/dbms/" >DBMS </a> | FS | <a href ="https://www.geeksforgeeks.org/essential-linuxunix-commands/" >UNIX </a>
+
+
 
 ## 📜Interview Guide<br>
 
 - Aptitude(Quants,Logical)
 - Basic programming questions (Swapping, Array manipulation, strings)
-- Data Structures and Algorithms (DSA)
-- Operating Systems (OS)
-- Data Base Management System(DBMS)
-- Data Communication  and Computer Network (DC & CN)
-- Cloud Computing 
+- Data Structures and Algorithms (<a href ="https://www.geeksforgeeks.org/data-structures/" > DSA </a>)
+- Operating Systems (<a href = "https://www.geeksforgeeks.org/operating-systems/" > OS </a>)
+- Data Base Management System(<a href ="https://www.geeksforgeeks.org/dbms/" >DBMS </a>)
+- Data Communication  and Computer Network (DC & <a href ="https://www.geeksforgeeks.org/basics-computer-networking/" >CN </a>)
+- Cloud Computing (GCP,AWS,Azure...)
 <br>
 * Role specific and Company specific questions will be asked go through the Job description and company website while preparing and prepare. Candidates must know about the Projects and skills mentioned in the resume.
 <br>  
@@ -37,11 +39,14 @@
  
 
  - Aptitude <br>
-<a href =" https://www.indiabix.com/aptitude/questions-and-answers/" > Aptitude (indiabix) </a><br>
+<a href ="https://www.indiabix.com/aptitude/questions-and-answers/" > Aptitude (indiabix) </a><br>
+<a href ="https://prepinsta.com/learn-aptitude/" > Aptitude (prepinsta) </a><br>
 
 <b> [6LPA+]</b><br>
 These are additional things in the check list after the Basic role [3.5 - 6].<br>
-<a href ="https://prepinsta.com/top-100-codes/" >Top 100 coding questions (Prepinsta) </a><br>
+- <a href ="https://prepinsta.com/top-100-codes/" >Top 100 coding questions (Prepinsta) </a><br>
+- <a href ="https://www.geeksforgeeks.org/fundamentals-of-algorithms/" >Algorithms(GFG) </a><br>
+
 - Excellent projects on latest technologies
 - Understanding on DBMS, OS and Networking.
 - Good Internships and Certifications will boost the chances
@@ -128,7 +133,7 @@ https://www.javatpoint.com/<br>
 https://www.tutorialspoint.com/index.htm<br>
 - (<b>Programiz</b>)<br>
 https://www.programiz.com/python-programming/online-compiler/ <br>
- Online compilers for C, c++, python, java,html, SQl, Php, JavaScript and many more.. 
+Online compilers for C, c++, python, java,html, SQl, Php, JavaScript and many more.. 
 
 ## Coders Youtube Video resources <br>
 (Bro code)<br>
