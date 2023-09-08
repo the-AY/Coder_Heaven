@@ -50,7 +50,7 @@ These are additional things in the check list after the Basic role [3.5 - 6].<br
 - Excellent projects on latest technologies
 - Understanding on DBMS, OS and Networking.
 - Good Internships and Certifications will boost the chances
-
+- Competitive Coding 
 
 </p>
 </details>
