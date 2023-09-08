@@ -15,7 +15,7 @@
 <br>  
 * <a href ="https://career.guru99.com/" > Interview Prep Coding  Questions (click here)</a> 
 
-### Last Moment Preparation (One week rapid preparation )
+### 🏅 Last Moment Preparation GOLD mine (One week rapid preparation )
 <details><summary>Click here to know more</summary>
 <p>
 - Coding questions company wise <br>
@@ -167,6 +167,8 @@ A best way to get Started with learning Kotlin for Android development is visiti
 https://kotlinlang.org/<br>
 https://youtu.be/mnkzx3TwbV8 <br>
 
+Cross platform development can be doen using <a href ="https://flutter.dev/learn" >Flutter(dart) </a> 
+
 ## Web Development 
 <br>(Web Browser for Development - <b>Mozilla Developer Edition</b>)<br>
 https://www.mozilla.org/en-US/firefox/developer/<br>
@@ -260,7 +262,7 @@ https://youtu.be/YoXxevp1WRQ
 <br>(<B>Aptitude👇</B>)<br>
 https://indiabix.com/aptitude/questions-and-answers/ <br>
 
-
+## 💡 Project ideas 
 ▶ Computer science/information science 
 
 https://github.com/petermac-/awesome-stars/blob/master/README.md#c-2
@@ -282,4 +284,4 @@ You can get some idea from these projects there are various programing languages
 
 Authors:-<br>
 -  <a href ="https://github.com/the-AY" >Adish Yermal</a> , Sahyadri College of Engineering and Management <br>
-Last Updated : 17-06-2023
+Last Updated : 08-09-2023
