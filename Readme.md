@@ -28,11 +28,12 @@
 - Object oriented Programming in C <br>
  <a href ="https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/" > OOPS(GFG) </a><br>  
 - Operating systems (Geeks for geeks)<br>
- <a href =" https://www.geeksforgeeks.org/operating-systems/" > Operating Systems(GFG) </a><br>
+ <a href = "https://www.geeksforgeeks.org/operating-systems/" > Operating Systems(GFG) </a><br>
+ 
 - SQL (DBMS)<br>
- <a href ="  https://www.interviewbit.com/sql-cheat-sheet/" >SQL (interviewbit) </a><br>
+ <a href ="https://www.interviewbit.com/sql-cheat-sheet/" >SQL (interviewbit) </a><br>
 - Computer Network <br>
- <a href ="  https://www.geeksforgeeks.org/basics-computer-networking/" >Basics of Computer Network (GFG) </a><br>
+ <a href ="https://www.geeksforgeeks.org/basics-computer-networking/" >Basics of Computer Network (GFG) </a><br>
  
 
  - Aptitude <br>
