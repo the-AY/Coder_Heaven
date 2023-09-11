@@ -76,16 +76,20 @@ Also you can check the last moment presentation for complete guide.
 ### How to start (Placement preparation)
 <details><summary>Click here to know more</summary>
 <p>
+
  ## Newbie guide to get started with programming
 
   Use a good IDE/code editor and make one folder to save all your code for easier access make a github account and learn the push, pull, commit, clone operations and then your ready to collaborate with your teammates VS code is one of the best one as it supports  almost every coding language and many extension available  
 
   ### Web development 
-  <br>(Web Browser for Development - <b>Mozilla Developer Edition</b>)<br>
-https://www.mozilla.org/en-US/firefox/developer/<br
+  <br>(Web Browser for Development - <b><a href="https://www.mozilla.org/en-US/firefox/developer"> <b>Mozilla Developer Edition</b> </a></b>)<br>
+
 
 - After you do the prerequiste of insatlling VS code you can start learning basic html, CSS, JavaScript from <a href="https://www.w3schools.com/"> <b>w3cschools</b> </a> use "Live server" (needs to be added does come built in) extension in vs code to see realtime changes in the website. make a small project using the things you learnt as making project and learning things is one way to learn things, its okay the first project maybe pointless, no idea, no structure but the first step towards it matters.
 After the initiall version of the project learn to add more features to the website and learn a programming language for the backend explore NoSQl and Sql languages.
+
+Video resources <a href=" https://youtu.be/ZxKM3DCV2kE"> <b>Full Stack dev from scratch </b>
+
 </p>
 </details>
 
@@ -180,15 +184,30 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 </p>
 </details> <br>
 
-### DevSecOps (Coming soon ❤️): 
+### DevSecOps : 
 <details><summary>Click here to know more (DevSecOps)</summary>
-<p> DevSecOps Coming soon ❤️
+<p> 
+
+![Alt text](https://www.knowledgehut.com/_next/image?url=https%3A%2F%2Fd2o2utebsixu4k.cloudfront.net%2Fmedia%2Fimages%2F1670422617916-DevSecOps-Life-Cycle.png&w=1080&q=75)
+
+DevSecOps is a practice that integrates security throughout the entire software development lifecycle (SDLC). It brings together development, security, and operations teams to collaborate and automate security checks and testing at every stage of the process, from planning and design to coding, testing, and deployment.
+
+
+- The goal of DevSecOps is to build secure software more quickly and efficiently. By taking a proactive approach to security, DevSecOps teams can identify and fix vulnerabilities early in the SDLC, before they can be exploited by attackers.
+
+- Security is everyone's responsibility: Security is not just the responsibility of the security team. All members of the development team, including developers, testers, and operations engineers, have a role to play in ensuring the security of software.
+- Automation is key: DevSecOps relies on automation to integrate security checks and testing into the SDLC. This helps to ensure that security is not an afterthought, but is instead built into the software from the start.
+Continuous feedback: DevSecOps teams use continuous feedback to identify and fix security vulnerabilities quickly. This feedback can come from automated security scans, manual testing, or user reports.
+- Collaboration: DevSecOps teams collaborate closely with each other to ensure that security is a top priority. This collaboration helps to break down silos and ensure that everyone is working towards the same goal.
 </p>
 </details> <br>
 
 ### Cloud ☁️  (Coming soon ❤️): 
 <details><summary>Click here to know more (Cloud)</summary>
-<p> Cloud ☁️ Coming soon ❤️
+<p> Cloud ☁️ Coming soon ❤️<br>
+- Google Cloud Platform <br> 
+- Amazon Web Services <br> 
+- Microsoft Azure <br>
 </p>
 </details> <br>
 
@@ -278,4 +297,4 @@ You can get some idea from these projects there are various programing languages
 
 Authors:-<br>
 -  <a href ="https://github.com/the-AY" >Adish Yermal</a> , Sahyadri College of Engineering and Management <br>
-Last Updated : 08-09-2023
+Last Updated : 11-09-2023
