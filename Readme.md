@@ -88,7 +88,7 @@ Also you can check the last moment presentation for complete guide.
 - After you do the prerequiste of insatlling VS code you can start learning basic html, CSS, JavaScript from <a href="https://www.w3schools.com/"> <b>w3cschools</b> </a> use "Live server" (needs to be added does come built in) extension in vs code to see realtime changes in the website. make a small project using the things you learnt as making project and learning things is one way to learn things, its okay the first project maybe pointless, no idea, no structure but the first step towards it matters.
 After the initiall version of the project learn to add more features to the website and learn a programming language for the backend explore NoSQl and Sql languages.
 
-Video resources <a href=" https://youtu.be/ZxKM3DCV2kE"> <b>Full Stack dev from scratch </b>
+Video resources <a href=" https://youtu.be/ZxKM3DCV2kE"> <b>Full Stack dev from scratch </b></a>
 
 </p>
 </details>
@@ -166,23 +166,57 @@ https://youtu.be/mnkzx3TwbV8 <br>
 
 Cross platform development can be doen using <a href ="https://flutter.dev/learn" >Flutter(dart) </a> 
 
-## Web Development 
-<br>(Web Browser for Development - <b>Mozilla Developer Edition</b>)<br>
-https://www.mozilla.org/en-US/firefox/developer/<br>
- best open source browser for Productivity and web development because of easier debugging 
 
-### DevOPS (Building up live soon ❤️): 
+
+## 💻 Web Development ( \\\ Revamping soon // )
+
+- <a href="https://www.mozilla.org/en-US/firefox/developer/"> Mozilla Developer Edition ( best for web development )</a> <br>
+
+<details><summary>Click here to know more ( How to get started ? )</summary>
+<p> 
+
+- To get started you need to the basic how the <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works"> website works</a> and  its built learning javascript(JS) will help to make the website faster.
+
+for developing the website using MERN stack you can see this video <a href="https://youtu.be/ZxKM3DCV2kE"> Full stack YT (MERN) </a>
+
+<a href="https://youtu.be/ZxKM3DCV2kE"> MERN </a> stack for development<br>
+M-MongoDB, E-Express JS, R-React JS, N-Node JS <br>
+
+<a href="https://www.mongodb.com/docs/"> MongoDB </a> is the No SQl database  as the backend <br>
+<a href="https://react.dev/learn">Node JS</a> as the script for the backend <br>
+<a href="https://expressjs.com/en/starter/installing.html">Express JS </a> used to pass the  http requests and response <br>
+<a href="https://nodejs.org/en/docs/guides">React JS</a> used to development of the Frontend of the website <br>
+
+</p>
+</details> 
+
+
+
+
+### DevOPS : 
 <details><summary>Click here to know more (DevOps)</summary>
 <p> 
-DevOps Being Built ❤️
+
+## DevOps Being Built ❤️
 <br>
 
 ![Alt text](https://audviklabs.com/wp-content/uploads/2022/05/devops-tools-1024x576.jpg)
 
-DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high quality. DevOps emphasizes the collaboration and communication of both teams to achieve these goals.
+<a href="https://youtu.be/S_0q75eD8Yc">DevOps </a> is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high quality. DevOps emphasizes the collaboration and communication of both teams to achieve these goals.
+
+ - Roles in DevOps
+ 
+  - *<b>DevOps Engineer:* </b> This role is responsible for building and maintaining the DevOps pipeline. They also work to automate tasks and processes to improve efficiency and reliability.
+  - *<b>Site Reliability Engineer (SRE):*</b> SREs are responsible for the reliability, performance, and scalability of software systems. They work to identify and resolve potential issues before they cause outages or performance degradation.
+  - *<b>Quality Assurance (QA) Engineer:*</b> QA engineers are responsible for testing software to ensure that it meets quality standards. They work with developers to find and fix bugs before the software is released to production.
+  - *<b>Security Engineer:*</b> Security engineers are responsible for the security of software systems. They work to identify and mitigate security risks, and to implement security best practices.
+  - *<b>Release Manager:*</b> Release managers are responsible for planning and executing the release of new software versions. They work with developers and operations teams to ensure that releases are smooth and successful.
+Resource to learn <br>
+<a href="https://youtu.be/S_0q75eD8Yc"> < DevOps (YT) > </a><br>
 
 </p>
 </details> <br>
+
 
 ### DevSecOps : 
 <details><summary>Click here to know more (DevSecOps)</summary>
@@ -202,6 +236,7 @@ Continuous feedback: DevSecOps teams use continuous feedback to identify and fix
 </p>
 </details> <br>
 
+
 ### Cloud ☁️  (Coming soon ❤️): 
 <details><summary>Click here to know more (Cloud)</summary>
 <p> Cloud ☁️ Coming soon ❤️<br>
@@ -210,6 +245,9 @@ Continuous feedback: DevSecOps teams use continuous feedback to identify and fix
 - Microsoft Azure <br>
 </p>
 </details> <br>
+
+
+
 
 ## 👾 Cyber Security
 
@@ -242,7 +280,8 @@ Security+ cybersecurity certification
 <a href ="https://github.com/the-AY/Cyber_Security/blob/main/Physical.md" > Physical Attacks (The-Ay github) </a><br>
 
 
-## 📚Learning Resources  <br>
+
+## 📚Learning Resources  *--depreciated--*   <br>
 <br>(Data Analysis and Algorithm👇)<br>
 https://www.javatpoint.com/daa-tutorial 
 <br>(Full video on DAA👇)<br>
@@ -293,9 +332,12 @@ You can get some idea from these projects there are various programing languages
 * Adafruit Learning System <a href ="https://github.com/adafruit/Adafruit_Learning_System_Guides" > (GitHub Link) </a><br>  
 
 * Pi Projects (<a href ="https://github.com/RPi-Distro/pi-projects"> GitHub Link) </a><br>
+*<a href ="https://www.flux.ai/p"> AI for PCB's </a><br>
+ 
 
 
 Authors:-<br>
 -  <a href ="https://github.com/the-AY" >Adish Yermal</a> , Sahyadri College of Engineering and Management <br>
 Ping me on <a href="https://www.linkedin.com/in/adish-yermal/">LinkedIn</a><br>
-Last Updated : 16-09-2023
+Last Updated Content : 18-09-2023 <br>
+Last Updated Structure : 18-09-2023
