@@ -26,3 +26,9 @@ Electronics
 
 
 resources
+
+
+
+
+tcs questions
+https://www.geeksforgeeks.org/must-do-questions-for-companies-like-tcs-cts-hcl-ibm/

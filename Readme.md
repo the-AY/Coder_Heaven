@@ -5,13 +5,13 @@
 
 ## 📜Interview Guide<br>
 
-- Aptitude(Quants,Logical)
+- Aptitude(<a href="https://www.faceprep.in/quantitative-aptitude/">Quants</a>,<a href="https://prepinsta.com/learn-logical-reasoning/">Logical</a>)
 - Basic programming questions (Swapping, Array manipulation, strings)
 - Data Structures and Algorithms (<a href ="https://www.geeksforgeeks.org/data-structures/" > DSA </a>)
 - Operating Systems (<a href = "https://www.geeksforgeeks.org/operating-systems/" > OS </a>)
 - Data Base Management System(<a href ="https://www.geeksforgeeks.org/dbms/" >DBMS </a>)
-- Data Communication  and Computer Network (DC & <a href ="https://www.geeksforgeeks.org/basics-computer-networking/" >CN </a>)
-- Cloud Computing (GCP,AWS,Azure...)
+- Data Communication  and Computer Network (<a href="https://www.geeksforgeeks.org/data-communication-definition-components-types-channels/">DC </a>& <a href ="https://www.geeksforgeeks.org/basics-computer-networking/" >CN </a>)
+- Cloud Computing (<a href="https://cloud.google.com/learn/training">GCP</a>,<a href="aws.amazon.com/training/">AWS</a>,Azure...)
 <br>
 * Role specific and Company specific questions will be asked go through the Job description and company website while preparing and prepare. Candidates must know about the Projects and skills mentioned in the resume.
 <br>  
@@ -203,8 +203,16 @@ M-MongoDB, E-Express JS, R-React JS, N-Node JS <br>
 ![Alt text](https://audviklabs.com/wp-content/uploads/2022/05/devops-tools-1024x576.jpg)
 
 <a href="https://youtu.be/S_0q75eD8Yc">DevOps </a> is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high quality. DevOps emphasizes the collaboration and communication of both teams to achieve these goals.
+<a href="https://aws.amazon.com/devops/what-is-devops/#:~:text=DevOps%20is%20the%20combination%20of,development%20and%20infrastructure%20management%20processes."> DevOps(AWS)</a>
 
- - Roles in DevOps
+### Getting Started: <br>
+- DevOps Fundamentals and Git <br>
+- Docker & Containerization <br>
+- CI/CD with Jenkins and GitHub Actions <br>
+- Kubernetes & Container Orchestration <br>
+
+
+- <b>Roles in DevOps</b>
  
   - *<b>DevOps Engineer:* </b> This role is responsible for building and maintaining the DevOps pipeline. They also work to automate tasks and processes to improve efficiency and reliability.
   - *<b>Site Reliability Engineer (SRE):*</b> SREs are responsible for the reliability, performance, and scalability of software systems. They work to identify and resolve potential issues before they cause outages or performance degradation.
