@@ -13,14 +13,16 @@
 - Operating Systems (<a href = "https://www.geeksforgeeks.org/operating-systems/" > OS 🔗</a>)
 - Data Base Management System(<a href ="https://www.geeksforgeeks.org/dbms/" >DBMS 🔗 </a>)
 - Data Communication  and Computer Network (<a href="https://www.geeksforgeeks.org/data-communication-definition-components-types-channels/">DC 🔗 </a>& <a href ="https://www.geeksforgeeks.org/basics-computer-networking/" >CN 🔗 </a>)
-- Cloud Computing (<a href="https://cloud.google.com/learn/training">GCP 🔗 </a>,<a href="aws.amazon.com/training/">AW 🔗</a>,Azure...)
+- Cloud Computing (<a href="https://cloud.google.com/learn/training">GCP 🔗 </a>,<a href="aws.amazon.com/training/">AWS 🔗</a>,Azure...)
 <br>
 * Role specific and Company specific questions will be asked go through the Job description and company website while preparing and prepare. Candidates must know about the Projects and skills mentioned in the resume.
 <br>  
 * <a href ="https://career.guru99.com/" > Interview Prep Coding  Questions 🔗 </a> 
 - <details><summary>Resume preparation 🔗</summary>
 <p>
-ATS friendly resume 
+ATS friendly resume <br>
+
+<a href="https://www.overleaf.com/latex/templates/iiit-vadodara-resume/crrpnvzhktfs">IIT Vadodara Resume Template 🔗 </a>
 
 </p>
 </details>
@@ -145,7 +147,7 @@ Use these websites to prepare for any kind of interview questions<br>
 
 
 
-## Courses
+## 📚 Courses
 
 Make roadmaps of anything using <a href ="https://learn-anything.xyz/" > learn-anything.xyz 🔗</a> 
 
@@ -296,7 +298,32 @@ Security+ cybersecurity certification
 
 <a href ="https://github.com/the-AY/Cyber_Security/blob/main/Physical.md" > Physical Attacks (The-Ay github) 🔗  </a><br>
 
+## 💡 Project ideas 
+▶ Computer science/information science 
+* CS projects <a href ="https://github.com/petermac-/awesome-stars/blob/master/README.md#c-2" > (GitHub Link) 🔗  </a><br> 
 
+
+
+You can get some idea from these projects there are various programing languages you choose from .
+
+▶ Electronics
+
+* Awesome Internet of Things (IoT) <a href ="https://github.com/HQarroum/awesome-iot" > (GitHub Link) 🔗  </a><br> 
+
+* Raspberry Pi Examples <a href ="https://github.com/raspberrypi/examples" > (GitHub Link) 🔗  </a><br>
+
+* NodeMCU<a href ="https://github.com/nodemcu/nodemcu-firmware" > (GitHub Link) 🔗  </a><br> 
+
+* Adafruit Learning System <a href ="https://github.com/adafruit/Adafruit_Learning_System_Guides" > (GitHub Link) 🔗 </a><br>  
+
+* Pi Projects (<a href ="https://github.com/RPi-Distro/pi-projects"> GitHub Link)🔗 </a><br>
+*<a href ="https://www.flux.ai/p"> AI for PCB's 🔗 </a><br>
+ 
+ 
+### 💡 Cooperate  
+<details> <summary>All about Cooperate</summary>
+<p> Each company has different verticals and projects they are working on and the deployment of the employee always depends on the business requirements of the company and sometimes they will be working on different technologies which are completely new, its all about adapting to the new technologies and learning quickly. And the process is really amazing a engineer should always be proactive in accepting new challenges </p>
+</details>
 
 ## 📚Learning Resources  *--depreciated--*   <br>
 <br>(Data Analysis and Algorithm👇)<br>
@@ -326,31 +353,6 @@ https://youtu.be/vv4y_uOneC0
 https://sites.google.com/a/gmit.ac.in/18cs44/
 <br>(All in one computer science video channel👇)</br>
 
-
-
-
-
-## 💡 Project ideas 
-▶ Computer science/information science 
-* CS projects <a href ="https://github.com/petermac-/awesome-stars/blob/master/README.md#c-2" > (GitHub Link) 🔗  </a><br> 
-
-
-
-You can get some idea from these projects there are various programing languages you choose from .
-
-▶ Electronics
-
-* Awesome Internet of Things (IoT) <a href ="https://github.com/HQarroum/awesome-iot" > (GitHub Link) 🔗  </a><br> 
-
-* Raspberry Pi Examples <a href ="https://github.com/raspberrypi/examples" > (GitHub Link) 🔗  </a><br>
-
-* NodeMCU<a href ="https://github.com/nodemcu/nodemcu-firmware" > (GitHub Link) 🔗  </a><br> 
-
-* Adafruit Learning System <a href ="https://github.com/adafruit/Adafruit_Learning_System_Guides" > (GitHub Link) 🔗 </a><br>  
-
-* Pi Projects (<a href ="https://github.com/RPi-Distro/pi-projects"> GitHub Link)🔗 </a><br>
-*<a href ="https://www.flux.ai/p"> AI for PCB's 🔗 </a><br>
- 
 
 
 Authors:-<br>
