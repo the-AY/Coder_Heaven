@@ -202,7 +202,9 @@ M-MongoDB, E-Express JS, R-React JS, N-Node JS <br>
 </details> 
 
 
+### AI
 
+<as href ="huggingface.co"> Hugging face - pre trained models </a>
 
 ### DevOPS : 
 <details><summary>Click here to know more (DevOps)</summary>
@@ -358,5 +360,5 @@ https://sites.google.com/a/gmit.ac.in/18cs44/
 Authors:-<br>
 -  <a href ="https://github.com/the-AY" >Adish Yermal 🔗 </a> , Sahyadri College of Engineering and Management <br>
 Ping me on <a href="https://www.linkedin.com/in/adish-yermal/">LinkedIn 🔗 </a><br>
-Last Updated Content : 04-12-2023 <br>
+Last Updated Content : 16-07-2025 <br>
 Last Updated Structure : 11-10-2023
