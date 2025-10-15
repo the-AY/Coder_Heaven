@@ -31,6 +31,9 @@ ATS friendly resume <br>
 ### 🏅 Last Moment Preparation GOLD mine (One week rapid preparation )
 <details><summary>Click here to know more</summary>
 <p>
+- All coding in one platform:
+<br>
+<a href ="https://www.w3schools.com/">W3cschool</a><br>
 - Coding questions company wise <br>
 <a href ="https://www.geeksforgeeks.org/must-coding-questions-company-wise/" > Questions (GFG) 🔗 </a><br> 
 
