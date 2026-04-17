@@ -30,6 +30,26 @@ ATS friendly resume <br>
 
 ### 🏅 Last Moment Preparation GOLD mine (One week rapid preparation )
 <details><summary>Click here to know more</summary>
+
+<details> <summary> DSA </summary>
+
+
+</details>
+<details> <summary> System Design </summary>
+System design is the process of creating a detailed blueprint for a software system's architecture, components, and data to meet specific functional and business requirements. <br>
+- Pillars of system <br>
+
+  - Scalability: The ability to handle increasing loads (users or data) without performance degradation.
+  - Availability: Ensuring the system remains operational and accessible to users at all times.
+  - Reliability: The consistency and correctness of operations, ensuring the system delivers the right results every time.
+  - Performance: How fast and efficiently the system executes tasks, especially under heavy stress
+
+</details>
+<details> <summary> Design Principle </summary>
+
+
+</details>
+
 <p>
 - All coding in one platform:
 <br>
